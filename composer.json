@@ -1,0 +1,16 @@
+{
+    "name": "zhoux/awesome-project",
+    "authors": [
+        {
+            "name": "Xun Zhou",
+            "email": "segentor@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://gitlab.com/vikbert/awesome-bundle.git"
+        }
+    ],
+    "require": {}
+}
