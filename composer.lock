@@ -1,0 +1,39 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6000528eeb6d4d7418a7ec3a61a4663d",
+    "packages": [
+        {
+            "name": "zhoux/awesome-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://gitlab.com/vikbert/awesome-bundle.git",
+                "reference": "c96de26f0bdf0a6e555d0a1d3801c62ee0b4d776"
+            },
+            "default-branch": true,
+            "type": "library",
+            "authors": [
+                {
+                    "name": "Xun Zhou",
+                    "email": "segentor@gmail.com"
+                }
+            ],
+            "time": "2021-02-19T11:31:47+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "zhoux/awesome-bundle": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

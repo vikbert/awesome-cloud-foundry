@@ -12,5 +12,7 @@
             "url": "https://gitlab.com/vikbert/awesome-bundle.git"
         }
     ],
-    "require": {}
+    "require": {
+        "zhoux/awesome-bundle": "dev-master"
+    }
 }
